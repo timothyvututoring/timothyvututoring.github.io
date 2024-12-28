@@ -1,0 +1,91 @@
+baseURL: "https://djtimmy679.github.io" 
+title: Timothy Vu
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About
+          url: /about
+          weight: 5 
+        - name: Subjects
+          url: subjects/
+          weight: 5
+        - name: Results
+          url: results/
+          weight: 5
+
+params:
+    description: "I am a Northern Virginia-based tutor with **over 5 years of experience** specializing in math, science, test preparation, and college consulting."
+    author: Timothy Vu
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["about","subjects","results"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Timothy Vu
+          subtitle: "I am a Northern Virginia based tutor with **over 5 years of experience** specializing in math, science, test preparation, and college consulting. I am a graduate of **Cornell University** with a bachelor’s and master’s in **computer science** and an alumni of **Thomas Jefferson High School for Science and Technology (TJHSST)**. In my day job, I work as a **Software Engineer** for **Microsoft** on the Office 365 team. I bring expertise, experience, and proven strategies to help students achieve their academic and career goals. Contact me at **timothyvututoring@gmail.com** or **571-449-7895** to schedule a session today!"
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: About
+              url: about/
+            - name: Subjects
+              url: subjects/
+            - name: Results
+              url: results/
+
+
+    socialIcons:
+        - name: Email
+          url: mailto:timothyvututoring@gmail.com
+        - name: Zoom 
+          url: https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09
+        - name: Phone
+          url: tel:571-449-7895
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Timothy Vu Tutoring"
+      # icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: dracula 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
