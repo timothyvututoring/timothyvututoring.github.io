@@ -1,5 +1,5 @@
 baseURL: "https://timothyvututoring.github.io" 
-title: Timothy Vu
+title: Timothy Vu Tutoring
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -14,10 +14,13 @@ menu:
           url: /about
           weight: 5 
         - name: Subjects
-          url: subjects/
+          url: /subjects
           weight: 5
         - name: Results
-          url: results/
+          url: /results
+          weight: 5
+        - name: Policies
+          url: /policies
           weight: 5
 
 params:
@@ -58,6 +61,12 @@ params:
               url: subjects/
             - name: Results
               url: results/
+            - name: Policies
+              url: Policies/
+            - name: Zoom
+              url: https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09
+            - name: Schedule Session
+              url: https://calendly.com/timothyvututoring
 
 
     socialIcons:
@@ -75,7 +84,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Timothy Vu Tutoring"
-      # icon: favicon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:

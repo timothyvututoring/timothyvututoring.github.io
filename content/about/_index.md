@@ -27,7 +27,9 @@ I am a dedicated tutor and mentor based in Northern Virginia with over **5 years
 - **Cyber Warfare Officer, US Army Reserves**  
   Part-time work for a cyber protection team in the Army Reserves
 
-  
+#### **Volunteer Experience**
+- **Mentor, Service2School**
+Provide college and professional consulting services to veterans
 
 ---
 #### **Tutoring Expertise**
