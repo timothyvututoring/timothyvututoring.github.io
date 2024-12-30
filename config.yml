@@ -11,17 +11,17 @@ taxonomies:
 menu:
     main:
         - name: About
-          url: /about
-          weight: 5 
+          url: about/
+          weight: 1 
         - name: Subjects
-          url: /subjects
-          weight: 5
+          url: subjects/
+          weight: 2
         - name: Results
-          url: /results
-          weight: 5
+          url: results/
+          weight: 3
         - name: Policies
-          url: /policies
-          weight: 5
+          url: policies/
+          weight: 4
 
 params:
     description: "I am a Northern Virginia-based tutor with **5+ years of experience** specializing in math, science, test preparation, and college consulting."
@@ -39,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about","subjects","results"]
+    MainSections: ["about","subjects","results", "policies"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -62,7 +62,7 @@ params:
             - name: Results
               url: results/
             - name: Policies
-              url: Policies/
+              url: policies/
             - name: Zoom
               url: https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09
             - name: Schedule Session
