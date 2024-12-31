@@ -23,7 +23,9 @@ I’m proud to share the success stories of my students, who have achieved remar
 - *Tim was a great tutor for my differential equations math class. He was very patient and knowledgeable helping me to exceed!*
 -**Samantha C.**
 
-- *Thanks Tim for helping me with SAT/ACT prep and CS help throughout college. Online tutoring was super flexible and Tim was available within 24 hour notice. It's super hard to find a tutor who is reliable and dedicated these days and Tim exceeded all my expectations* -**Andrew T.**
+- *Tim was an incredible mentor throughout high school, guiding me through challenging subjects like CS, AP Math, and AP Chemistry with patience and clarity. His dedication not only helped me excel academically but also played a key role in my acceptance to Georgia Tech’s CS program and ultimately landing a job at Meta. I highly recommend him to anyone looking for a dedicated and knowledgeable tutor.* 
+-**Sachin Y.**
+
 <!-- *"Tim gave me my first introduction to **Java programming** in the summer of 2019. His patient guidance and deep understanding of computer science helped me build a strong foundation in programming. Over the years, Tim continued to mentor me, providing support through challenging coursework and college applications. Thanks to his help, I was accepted into **Georgia Tech**’s top-ranked computer science program and recently completed a software engineering internship at **Meta**. None of this would have been possible without Tim's consistent support and expertise."*  
 – **Sachin Y.**
 
