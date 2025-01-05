@@ -1,7 +1,7 @@
-# SAT Prep Class - March 8 SAT (Starting January 18-19)
+# SAT Prep Class - March 8 SAT
 <a href="https://99ahiaxszvi.typeform.com/to/EEHIH2Kx" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">🚀 Enroll Now</a>
 
-📢 Secure your spot now and ace the March SAT!
+📢 Secure your spot now and ace the March SAT! Classes start January 18
 
 ### 📅 Class Schedule:
 - **AM Session**: Saturday & Sunday, 10:00 - 11:00 AM (ET)
