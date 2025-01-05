@@ -8,6 +8,8 @@
   </url><url>
     <loc>http://localhost:1313/results/</loc>
   </url><url>
+    <loc>http://localhost:1313/sat/</loc>
+  </url><url>
     <loc>http://localhost:1313/subjects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
