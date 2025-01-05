@@ -12,17 +12,16 @@
 - ✅ **Small Class Size:** Max of **8 students** per class for personalized attention.
 - ✅ **Money-Back Guarantee:** If you're not satisfied after the first week, get a full refund.
 
-
-### 🖥️ 100% Virtual
-All classes are conducted online via Zoom.
-
 ### 📌 Course Features:
 - Intensive SAT prep tailored for the March 8 SAT
-- Weekend-only live lessons 
+- 14 interactive 1-hour online live lessons 
 - 24/7 support via our dedicated Slack group
 - Weekly optional office hours: Wednesdays, 7:00 - 8:00 PM (ET)
 - Real SAT practice questions & strategy breakdowns
 - Expert instruction from top SAT tutor and Ivy League graduate
+
+### 🖥️ 100% Virtual
+All classes are conducted online via Zoom.
 
 ### 📖 Lesson Plan:
 Each session focuses on high-impact SAT strategies:
