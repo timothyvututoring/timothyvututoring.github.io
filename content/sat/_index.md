@@ -7,7 +7,7 @@
 
 ### 📌 Course Features:
 - Expert instruction from **top 1% SAT scorer** and **Ivy League** graduate
-- **26 hours** total of online live lessons 
+- **21 hours** total of online live lessons 
 - **24/7 support** via our dedicated Slack group
 - Real SAT practice questions & strategy breakdowns
 - Weekly optional office hours: Wednesdays, 7:00 - 8:00 PM (ET)
