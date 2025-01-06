@@ -11,7 +11,7 @@ Thank you for choosing Timothy Vu Tutoring! Below are the key policies to ensure
 - **Online**: [**Zoom**](https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09) or Google Meet (link provided via Calendly).
 
 ## Cancellations
-- **Cancellation Policy**: Cancellations must be made at least **12 hours in advance**. No-shows or cancellations made with less notice will not be refunded or credited.
+- **Cancellation Policy**: Cancellations must be made at least **24 hours in advance**. No-shows or cancellations made with less notice will not be refunded or credited.
 
 ## Payments Accepted
   - **Cash** (preferred)
