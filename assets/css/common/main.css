@@ -1,5 +1,5 @@
 b,
-strong, a[href^="mailto:"], h2, h3 {
+strong, a[href^="mailto:"], h2, h3, button {
     color: #456d6d;
     /* color: #875156; */
 }
