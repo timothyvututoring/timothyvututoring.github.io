@@ -11,12 +11,12 @@
 - **26 hours** total of online live lessons 
 - **24/7 support** via our dedicated Slack group
 - Real SAT practice questions & strategy breakdowns
+- Weekly optional office hours: Wednesdays, 7:00 - 8:00 PM (ET)
 - If you're not satisfied after the first week, get a full refund.
 
 
 ### 📖 Lesson Plan:
 Each session focuses on high-impact SAT strategies:
-- Weekly optional office hours: Wednesdays, 7:00 - 8:00 PM (ET)
 <table>
 <tr>
 <th>Week</th>
