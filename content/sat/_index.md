@@ -1,5 +1,5 @@
 # SAT Prep Class - March 8 SAT
-<a href="https://99ahiaxszvi.typeform.com/to/EEHIH2Kx" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">🚀 Enroll Now ($499 for a limited time!)</a>
+<a href="https://99ahiaxszvi.typeform.com/to/EEHIH2Kx" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">🚀 Enroll Now ($449 for a limited time!)</a>
 
 📢 Secure your spot now and ace the March SAT! Classes start **January 18**.
 ### 📅 Class Schedule:
