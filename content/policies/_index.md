@@ -7,7 +7,7 @@ Thank you for choosing Timothy Vu Tutoring! Below are the key policies to ensure
 - **Regular Sessions**: If you'd like to reserve a recurring time slot, please let me know so I can prioritize your schedule.
 
 ## Locations
-- **In-Person**: Chantlly Regional Library, 4000 Stringfellow Rd., Chantilly, VA 20151 or Oakton Library, 10304 Lynnhaven Pl, Oakton, VA 22124
+- **In-Person**: Chantilly Regional Library, 4000 Stringfellow Rd., Chantilly, VA 20151 or Oakton Library, 10304 Lynnhaven Pl, Oakton, VA 22124
 - **Online**: [**Zoom**](https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09) or Google Meet (link provided via Calendly).
 
 ## Cancellations

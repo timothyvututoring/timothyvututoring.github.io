@@ -3,8 +3,7 @@
 
 📢 Secure your spot now and ace the March SAT! Classes start **January 18**.
 ### 📅 Class Schedule:
-- **AM Session**: Saturday & Sunday, 10:00 - 11:30 AM (ET)
-- **PM Session**: Saturday & Sunday, 8:00 - 9:30 PM (ET)
+- Saturday & Sunday, 8:00 - 9:30 PM (ET)
 
 ### 📌 Course Features:
 - Expert instruction from **top 1% SAT scorer** and **Ivy League** graduate
