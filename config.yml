@@ -22,9 +22,9 @@ menu:
         - name: Policies
           url: policies/
           weight: 4
-        - name: SAT
-          url: sat/
-          weight: 5
+        # - name: SAT
+        #   url: sat/
+        #   weight: 5
 
 params:
     description: "I am a Northern Virginia-based tutor with **5+ years of experience** specializing in math, science, test preparation, and college consulting."
@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about","subjects","results", "policies", "sat"]
+    MainSections: ["about","subjects","results", "policies"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -64,8 +64,6 @@ params:
               url: subjects/
             - name: Results
               url: results/
-            - name: SAT Prep Class (ON SALE!)
-              url: sat/
             - name: Zoom
               url: https://cornell.zoom.us/j/9093325013?pwd=YmFFL2ZaN3NkaE16QzQ4bmdBOUJUQT09
             - name: Schedule Session
